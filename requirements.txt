@@ -1,0 +1,10 @@
+Python 3.8+
+- PyTorch
+- Torchvision
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- scikit-learn
+- OpenCV
+- Pillow

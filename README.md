@@ -19,7 +19,7 @@ Each image has a class label (breed).
 - **Images folder:** `/content/images/images`
 
 #Usage
-git clone https://github.com/YOUR-USERNAME/pet-classification.git
+git clone https://github.com/prathan-192/pet-classification.git
 cd pet-classification
 
 #Model Architectures
